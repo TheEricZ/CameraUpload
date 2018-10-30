@@ -6,4 +6,5 @@ grants the app permission to access photos from the gallery that can then be upl
 There are some errors as of right now but most of the code is there and I believe there are only
 some minor tweaks to be made.
 
-Building and running the code uses the same steps as the main repository.
+The code is only here for now while some mistakes are being fixed. Eventually this will be merged into the
+main repository. This code is not meant to be run separately without the rest of the app.
