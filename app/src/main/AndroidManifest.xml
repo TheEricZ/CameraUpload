@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+
+<uses-feature
+    android:name="android.hardware.camera"
+    android:required="false" />
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="info.androidhive.camerafileupload"
     android:versionCode="1"
